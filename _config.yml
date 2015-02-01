@@ -1,1 +1,5 @@
-baseurl:/blogdemo
+markdown: rdiscount
+pygments: true
+
+title: "Achuan Blog"
+author: achuan
